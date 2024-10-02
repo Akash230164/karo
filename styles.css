@@ -64,25 +64,25 @@ body, html {
 
 /* Background images */
 .home-bg {
-    background-image: url('images/amber1.jpg');
+    background-image: url('amber1.jpg');
     background-size: cover; /* Cover the entire section */
     background-position: center;
 }
 
 .about-bg {
-    background-image: url('images/amber2.jpg');
+    background-image: url('amber2.jpg');
     background-size: cover; /* Cover the entire section */
     background-position: center;
 }
 
 .memories-bg {
-    background-image: url('images/amber3.jpg');
+    background-image: url('amber3.jpg');
     background-size: cover; /* Cover the entire section */
     background-position: center;
 }
 
 .special-bg {
-    background-image: url('images/amber4.jpg');
+    background-image: url('amber4.jpg');
     background-size: cover; /* Cover the entire section */
     background-position: center;
 }
